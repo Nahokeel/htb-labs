@@ -5,9 +5,7 @@
 | **OS** | Linux |
 | **Difficulty** | Easy |
 | **IP Address** | `10.129.64.165` |
-| **User Flag** | `ce8[REDACTED]` |
-| **Root Flag** | `03b9[REDACTED]` |
-| **Key Skills / Tags** | `http`, `ffuf`, `pcap`, `Wireshark`, `ftp`, `ssh`, `Privilege Escalation` |
+| **Tags** | `http`, `ffuf`, `pcap`, `ftp`, `ssh`, `Privilege Escalation` |
 
 ---
 
