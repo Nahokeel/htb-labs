@@ -6,6 +6,7 @@
 | :--- | :--- |
 | **Category** | *DFIR* |
 | **Difficulty** | *Easy* |
+| **Solve Date** | *08/17/2026* |
 
 ---
 
