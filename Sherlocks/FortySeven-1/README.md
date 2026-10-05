@@ -6,7 +6,7 @@
 | :--- | :--- |
 | **Category** | *Threat Intelligence* |
 | **Difficulty** | *Very Easy* |
- 
+| **Solve Date** | *08/02/2026* |
 ---
  
 ## Scenario Overview
