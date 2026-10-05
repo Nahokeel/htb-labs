@@ -1,10 +1,11 @@
 # FortySeven-1
  
+ <img src="assets/FortySeven-1.png" alt="FortySeven-1 Logo" width="250">
+
 | Investigation Details | |
 | :--- | :--- |
-| **Category** | *[Threat Intelligence]* |
-| **Difficulty** | *[Very Easy]* |
-| **Provided Artifacts** | `[N/A]` |
+| **Category** | *Threat Intelligence* |
+| **Difficulty** | *Very Easy* |
  
 ---
  
