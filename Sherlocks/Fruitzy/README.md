@@ -150,12 +150,14 @@ I utilized VirusTotal again and by clicking the details tab, I saw its aliases.
 ---
  
 ## Summary
- 
+
 | Area | Finding |
 | :--- | :--- |
-| Actor identity | Mysterious Elephant / APT-K-47, South Asia, active since at least 2022 |
-| Overlap | Linked to BITTER via shared use of ORPCBackdoor |
-| Core tooling | ORPCBackdoor, Asyncshell-v2 (TCP → HTTPS evolution), MemLoader HidenDesk, Vtyrei downloader (ex-Origami Elephant) |
-| WhatsApp-focused exfil | Stom Exfiltrator, ChromeStealer Exfiltrator |
-| Notable exploited CVEs | CVE-2017-11882, CVE-2023-38831 |
-| MITRE ATT&CK mapping | T1547.001 (Registry Run Keys / Startup Folder), T1059.001 (PowerShell), T1041 (Exfiltration Over C2 Channel) |
+| Initial access | Phishing email ("Special Party Invitation from JANET CARNAHAN") → Cloudflare-fronted landing page at `pomi.digital` |
+| Payload delivery | `premium.exe` hosted on abused Cloudflare R2 bucket (`pub-d8a802dcdc114798b560cd3f305ee158.r2.dev`) |
+| Payload identity | SHA-256 `af240a2c2a4b42e3a130f47ccaab9aa2e20a1a586bc959ee9efd7475055ea7e3`; known alias `5bxrx.exe` |
+| Execution | `premium.exe` executed 2026-03-04 16:44:33 UTC (AmCache); Defender custom scan initiated 16:48:00 UTC, no detection |
+| Persistence mechanism | Legitimate RMM tool (Datto RMM / CentraStage) installed as `CagService` — LocalSystem, auto-start, registered 16:44:51 UTC |
+| Anti-forensics | `$STANDARD_INFORMATION` timestomping on `CagService.exe`/`Gui.exe` (set to 2026-02-09 07:56:40); true creation confirmed via `$FILE_NAME` (16:44:34 UTC) |
+| Infrastructure | `pomi.digital` registered 2026-02-20 01:06:05 UTC — ~2 weeks before the attack |
+| MITRE ATT&CK mapping | T1566.002 (Phishing: Spearphishing Link), T1204.002 (User Execution: Malicious File), T1543.003 (Create/Modify System Process: Windows Service), T1070.006 (Timestomp), T1219 (Remote Access Software) |
