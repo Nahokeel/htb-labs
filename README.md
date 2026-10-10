@@ -29,18 +29,30 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | Lab | Difficulty | Solve Date | Writeup |
 | :--- | :---: | :---: | :---: |
 | **FortySeven-1** | Very Easy | 08/02/2026 | [Read →](Sherlocks/FortySeven-1/README.md) |
+| **KitsuneHook** | Easy | 08/05/2026 | **Still Active** |
 
 #### DFIR
 
 | Lab | Difficulty | Solve Date | Writeup |
 | :--- | :---: | :---: | :---: |
+| **Baggage** | Very Easy | 08/16/2026 | **Still Active** |
 | **Fruitzy** | Easy | 08/17/2026 | [Read →](Sherlocks/Fruitzy/README.md) |
+| **LogForge** | Medium | 09/07/2026 | **Prepping Writeup** |
+| **Phantom** | Easy | 09/14/2026 | **Still Active** |
+| **CAMouflage** | Easy | 09/20/2026 | **Still Active** |
+| **Opportunist** | Medium | 10/04/2026 | **Still Active** |
 
 #### Threat Hunting
 
 | Lab | Difficulty | Solve Date | Writeup |
 | :--- | :---: | :---: | :---: |
-| *Coming soon* | - | - | - |
+| **TaskForce** | Easy | 10/09/2026 | **Still Active** |
+
+#### Malware Analysis
+
+| Lab | Difficulty | Solve Date | Writeup |
+| :--- | :---: | :---: | :---: |
+| **PhantomRing** | Very Easy | 08/02/2026 | **Still Active** |
 
 ### CTFs
 
@@ -66,10 +78,13 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 ```
 htb-labs/
 ├── Sherlocks/        # Sherlock writeups
-│   ├── FortySeven-1/
-│   └── Fruitzy/
+│   ├── lab1/
+│   └── lab2/
+│   └── and more...
 ├── CTFs/             # Machine writeups
-│   └── Cap/
+│   └── machine1/
+│   └── machine2/
+│   └── and more...
 ├── LICENSE
 └── README.md
 ```
