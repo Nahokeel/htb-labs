@@ -15,7 +15,7 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 
 - **I only play ACTIVE labs.** I don't like doing labs that are already retired, so I solve them while they're still live on the platform.
 - **I only publish after retirement.** A writeup goes up here the moment its lab retires, never before. This keeps the repo within HTB's rules and keeps the challenge fair for everyone still solving it.
-- **Sherlocks are my main focus.** They're where I spend most of my time, building real defensive skills in DFIR, threat hunting and threat intelligence.
+- **Sherlocks are my main focus.** They're where I spend most of my time, building real defensive skills in DFIR, threat hunting, threat intelligence, and malware analysis.
 - **I also do CTFs (mostly retired ones).** The goal here is to learn the attacker mindset. Understanding how an attacker thinks makes me better at spotting what they leave behind.
 
 ---
@@ -105,11 +105,3 @@ Each Sherlock writeup follows the same layout:
 ## Disclaimer
 
 These writeups are for **educational purposes only** and are published after the labs have retired, in line with Hack The Box's content policy. Please try the labs yourself first. Struggling through them is where the real learning happens.
-
----
-
-<div align="center">
-
-**Author:** [Nahokeel](https://github.com/Nahokeel)
-
-</div>
