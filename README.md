@@ -37,7 +37,7 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | :--- | :---: | :---: | :---: |
 | **Baggage** | Very Easy | 08/16/2026 | **Still Active** |
 | **Fruitzy** | Easy | 08/17/2026 | [Read →](Sherlocks/Fruitzy/README.md) |
-| **LogForge** | Medium | 09/07/2026 | **Prepping Writeup** |
+| **LogForge** | Medium | 09/07/2026 | [Read →](Sherlocks/LogForge/README.md) |
 | **Phantom** | Easy | 09/14/2026 | **Still Active** |
 | **CAMouflage** | Easy | 09/20/2026 | **Still Active** |
 | **Opportunist** | Medium | 10/04/2026 | **Still Active** |
