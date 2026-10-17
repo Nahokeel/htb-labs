@@ -18,6 +18,7 @@
 - SecureList: [Mysterious Elephant: a growing threat](https://securelist.com/mysterious-elephant-apt-ttps-and-tools/117596/)
 - Knownsec 404 Team: [APT-K-47 (Mysterious Elephant): A New APT Organization in South Asia](https://medium.com/@knownsec404team/apt-k-47-mysterious-elephant-a-new-apt-organization-in-south-asia-5c66f954477)
 - Knownsec 404 Team: [Unveiling the Past and Present of APT-K-47 Weapon Asyncshell](https://medium.com/@knownsec404team/unveiling-the-past-and-present-of-apt-k-47-weapon-asyncshell-5a98f75c2d68)
+
 ---
  
 ## Task 1
