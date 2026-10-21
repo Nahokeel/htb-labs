@@ -42,6 +42,8 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | **CAMouflage** | Easy | 09/20/2026 | **Still Active** |
 | **Opportunist** | Medium | 10/04/2026 | **Still Active** |
 | **WhaleSecret** | Medium | 10/17/2026 | **Still Active** |
+| **PhantomBundle** | Hard | 10/19/2026 | **Still Active** |
+| **Arcadia'sCompromise** | Hard | 10/20/2026 | **Still Active** |
 
 #### Threat Hunting
 
