@@ -39,11 +39,13 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | **Fruitzy** | Easy | 08/17/2026 | [Read →](Sherlocks/Fruitzy/README.md) |
 | **LogForge** | Medium | 09/07/2026 | [Read →](Sherlocks/LogForge/README.md) |
 | **Phantom** | Easy | 09/14/2026 | **Still Active** |
-| **CAMouflage** | Easy | 09/20/2026 | **Still Active** |
+| **CAMouflage** | Easy | 09/20/2026 | [Read →](Sherlocks/CAMouflage/README.md) |
 | **Opportunist** | Medium | 10/04/2026 | **Still Active** |
 | **WhaleSecret** | Medium | 10/17/2026 | **Still Active** |
 | **PhantomBundle** | Hard | 10/19/2026 | **Still Active** |
 | **Arcadia'sCompromise** | Hard | 10/20/2026 | **Still Active** |
+| **Kraken** | Medium | 10/22/2026 | **Still Active** |
+| **ShellForSell** | Easy | 10/23/2026 | **Still Active** |
 
 #### Threat Hunting
 
