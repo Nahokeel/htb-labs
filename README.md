@@ -46,6 +46,7 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | **Arcadia'sCompromise** | Hard | 10/20/2026 | **Still Active** |
 | **Kraken** | Medium | 10/22/2026 | **Still Active** |
 | **ShellForSell** | Easy | 10/23/2026 | **Still Active** |
+| **CorpDown-2** | Hard | 10/25/2026 | **Still Active** |
 
 #### Threat Hunting
 
