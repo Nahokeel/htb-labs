@@ -29,7 +29,7 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | Lab | Difficulty | Solve Date | Writeup |
 | :--- | :---: | :---: | :---: |
 | **FortySeven-1** | Very Easy | 08/02/2026 | [Read →](Sherlocks/FortySeven-1/README.md) |
-| **KitsuneHook** | Easy | 08/05/2026 | **Still Active** |
+| **KitsuneHook** | Easy | 08/05/2026 | [Read →](Sherlocks/KitsuneHook/README.md) |
 
 #### DFIR
 
