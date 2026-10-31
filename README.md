@@ -47,6 +47,7 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | **Kraken** | Medium | 10/22/2026 | **Still Active** |
 | **ShellForSell** | Easy | 10/23/2026 | **Still Active** |
 | **CorpDown-2** | Hard | 10/25/2026 | **Still Active** |
+| **SaSync** | Medium | 10/31/2026 | **Still Active** |
 
 #### Threat Hunting
 
@@ -68,14 +69,15 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 
 ---
 
-## Tools I Use for Sherlocks
+## Main Tools
 
 | Tool | Used for |
 | :--- | :--- |
 | [**Volatility 3**](https://github.com/volatilityfoundation/volatility3) | Memory forensics |
 | [**Autopsy**](https://www.autopsy.com/) | Disk image analysis |
-| [**EZTools**](https://ericzimmerman.github.io/) (Eric Zimmerman's Tools) | Parsing artifacts such as `$MFT`, Amcache and more |
-| [**Registry Explorer**](https://ericzimmerman.github.io/) | Registry hive analysis |
+| [**Exterro FTK**](https://www.exterro.com/ftk-imager) | Mounting evidence |
+| [**Wireshark**](https://www.wireshark.org/) | Network forensics |
+| [**EZTools**](https://ericzimmerman.github.io/) (Eric Zimmerman's Tools) | Parsing artifacts |
 
 ---
 
