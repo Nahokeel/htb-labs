@@ -44,10 +44,11 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | **WhaleSecret** | Medium | 10/17/2026 | **Still Active** |
 | **PhantomBundle** | Hard | 10/19/2026 | **Still Active** |
 | **Arcadia'sCompromise** | Hard | 10/20/2026 | **Still Active** |
-| **Kraken** | Medium | 10/22/2026 | **Still Active** |
+| **Kraken** | Medium | 10/22/2026 | [Read →](Sherlocks/Kraken/README.md) |
 | **ShellForSell** | Easy | 10/23/2026 | **Still Active** |
 | **CorpDown-2** | Hard | 10/25/2026 | **Still Active** |
 | **SaSync** | Medium | 10/31/2026 | **Still Active** |
+| **VelvetThrone** | Hard | 11/05/2026 | **Still Active** |
 
 #### Threat Hunting
 
