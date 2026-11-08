@@ -49,6 +49,7 @@ This repository is my personal collection of writeups for Hack The Box labs, wit
 | **CorpDown-2** | Hard | 10/25/2026 | **Still Active** |
 | **SaSync** | Medium | 10/31/2026 | **Still Active** |
 | **VelvetThrone** | Hard | 11/05/2026 | **Still Active** |
+| **Chameleon** | Medium | 11/07/2026 | **Still Active** |
 
 #### Threat Hunting
 
