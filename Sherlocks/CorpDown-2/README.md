@@ -181,6 +181,7 @@ This one needed me to figure out which machine is the third one first. Counting 
 
 ![DC01 PowerShell log](assets/task12.1.png)
 ![CyberChef decode](assets/task12.2.png)
+![Execute command](assets/task12.3.png)
 
 **Answer:** `powershell -c Start-Process C:\Users\Administrator\Music\update.exe`
 
